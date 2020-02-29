@@ -29,8 +29,8 @@
   "questions": [
       {"content": "What is the Heisman trophy?", "correct": "Awarded to the best college football player of the year", "incorrect": ["The best wide receiver in peewee award","The greatest coach of the decade award","The most oustanding kicker ward"]},
       {"content": "What bat did Arod use to win the world series?", "correct": "A corked bat, loser", "incorrect": ["Steel wool bat","Bamboo bat","Bones from his grandmother"]},
-      {"content": "What is your favorite color?", "correct": "Orange", "incorrect": ["Blue","Yellow","Green"]}
-      {"content": "How many bases on a Baseball field?", "correct": "5", "incorrect": ["2","1","100"]}
+      {"content": "What is your favorite color?", "correct": "Orange", "incorrect": ["Blue","Yellow","Green"]},
+      {"content": "How many bases on a Baseball field?", "correct": "5", "incorrect": ["2","1","100"]},
       {"content": "How did the Houston Astros cheat?", "correct": "Banging in the dugout to signal pitches", "incorrect": ["Paid for hookers to subdue the teams before playing them","Slipped sleeping pills in the opponents water jugs","Paid off the Mafia"]}
     ]}
   ]
