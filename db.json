@@ -3,28 +3,7 @@
   [
     {"email": "vanessa@txstate.edu",
     "id": 1,
-    "username": "vanessa"},
-    {"email": "sheryll@txstate.edu",
-    "id": 2,
-    "username": "sheryll"},
-    {"email": "ledarius@txstate.edu",
-    "id": 3,
-    "username": "ledarius1"},
-    {"email": "john@txstate.edu",
-    "id": 4,
-    "username": "john"},
-    {"email": "jo@txstate.edu",
-    "id": 5,
-    "username": "jo"},
-    {"email": "bigboi@txstate.edu",
-    "id": 6,
-    "username": "bigboi"},
-    {"email": "thatguytxstate.edu",
-    "id": 7,
-    "username": "thatguy"},
-    {"email": "larry@txstate.edu",
-    "id": 8,
-    "username": "larry"}
+    "username": "vanessa"}
   ],
   "Trivia":
   [ 
