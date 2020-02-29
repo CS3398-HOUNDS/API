@@ -5,6 +5,17 @@
     "id": 1,
     "username": "vanessa"}
   ],
+  "Leaderboard":
+  [ 
+   {"username": "jessica", "id": "2", "score": "100"},
+   {"username": "larry", "id": "10", "score": "80"},
+   {"username": "biguser120", "id": "20", "score": "79"},
+   {"username": "thatguy102", "id": "30", "score": "78"},
+   {"username": "haha", "id": "22", "score": "69"},
+   {"username": "leaderboardtest", "id": "23", "score": "66"},
+   {"username": "youalreadyknow", "id": "25", "score": "67"},
+   {"username": "whatitdo", "id": "200", "score": "20"}
+   ],
   "Trivia":
   [ 
   {"id": "1",
@@ -17,7 +28,10 @@
   "type": "1",
   "questions": [
       {"content": "What is the Heisman trophy?", "correct": "Awarded to the best college football player of the year", "incorrect": ["The best wide receiver in peewee award","The greatest coach of the decade award","The most oustanding kicker ward"]},
-      {"content": "What bat did Arod use to win the world series?", "correct": "A corked bat, loser", "incorrect": ["Steel wool bat","Bamboo bat","Bones from his grandmother"]}
+      {"content": "What bat did Arod use to win the world series?", "correct": "A corked bat, loser", "incorrect": ["Steel wool bat","Bamboo bat","Bones from his grandmother"]},
+      {"content": "What is your favorite color?", "correct": "Orange", "incorrect": ["Blue","Yellow","Green"]}
+      {"content": "How many bases on a Baseball field?", "correct": "5", "incorrect": ["2","1","100"]}
+      {"content": "How did the Houston Astros cheat?", "correct": "Banging in the dugout to signal pitches", "incorrect": ["Paid for hookers to subdue the teams before playing them","Slipped sleeping pills in the opponents water jugs","Paid off the Mafia"]}
     ]}
   ]
 }
