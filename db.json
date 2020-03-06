@@ -1,17 +1,15 @@
 {
   "Token":{"auth_token": "test_token_124935jnl45n14l"},
-  ,
   "Profile":
-  [
         {
-      "user": 0,
-      "bio": "string",
-      "location": "string",
-      "birth_date": "2020-03-06",
+      "user": 2,
+      "bio": "",
+      "location": "",
+      "birth_date": null,
       "score": 0,
-      "rank": 'none'
+      "rank": "none"
     }
-  ],
+  ,
   "Leaderboard":
   [ 
    {"username": "jessica", "id": "2", "score": "100", "rank": "Superstar"},
@@ -19,7 +17,7 @@
    {"username": "biguser120", "id": "20", "score": "79", "rank": "King"},
    {"username": "thatguy102", "id": "30", "score": "78", "rank": "Lord"},
    {"username": "haha", "id": "22", "score": "69", "rank": "Lady"},
-   {"username": "leaderboardtest", "id": "23", "score": "66"' "rank": "none"},
+   {"username": "leaderboardtest", "id": "23", "score": "66", "rank": "none"},
    {"username": "youalreadyknow", "id": "25", "score": "67", "rank": "Squire"},
    {"username": "whatitdo", "id": "200", "score": "20", "rank": "Apprentice"}
    ],
