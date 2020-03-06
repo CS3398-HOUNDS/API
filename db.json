@@ -22,15 +22,14 @@
    {"username": "whatitdo", "id": "200", "score": "20", "rank": "Apprentice"}
    ],
   "Trivia":
-  [ 
   {"id": "1",
    "joinable": "True",
    "created": "YYYY-MM-DD",
    "title": "Larrys' playground!",
    "category": "1",
-   "type": "1",
+   "type": "1"
   }
-  ],
+  ,
   "Questions":
   [
       {"content": "What is the Heisman trophy?", "correct": "Awarded to the best college football player of the year", "incorrect": ["The best wide receiver in peewee award","The greatest coach of the decade award","The most oustanding kicker ward"]},
