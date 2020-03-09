@@ -4,6 +4,7 @@
         {
       "user": 2,
       "bio": "",
+      "current_game": 0,
       "location": "",
       "birth_date": null,
       "score": 0,
